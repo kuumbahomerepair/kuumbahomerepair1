@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="520" height="140" viewBox="0 0 520 140" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Kuumba Home Repair logo">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f3d4c"/>
+      <stop offset="1" stop-color="#0b6a7a"/>
+    </linearGradient>
+  </defs>
+  <g transform="translate(10,18)">
+    <path d="M50 86c18-18 39-29 64-33 16-2 32-1 49 2 9 2 18 5 27 9l6 3-12 10c-7-3-14-6-22-8-16-4-32-5-48-3-19 3-36 11-51 23l-13 11-10-14z" fill="url(#g)" opacity="0.95"/>
+    <path d="M32 78c14-21 33-37 58-46 18-7 37-9 56-6 15 2 29 7 41 15l-8 11c-10-6-22-10-34-12-16-2-31 0-46 6-19 7-35 20-46 37L32 78z" fill="#0f3d4c"/>
+    <path d="M128 28l16 12-10 13c8 5 14 12 18 20l-14 6c-3-6-8-11-14-15l-8 11-13-10 25-37z" fill="#f5b642"/>
+    <path d="M64 94c18 12 41 18 65 18 23 0 46-6 64-18v22c-18 12-41 18-64 18-24 0-47-6-65-18V94z" fill="#0f3d4c" opacity="0.85"/>
+  </g>
+  <text x="220" y="60" font-family="Arial, Helvetica, sans-serif" font-size="44" font-weight="800" fill="#0f3d4c">KUUMBA</text>
+  <text x="222" y="95" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" fill="#3b3b3b" letter-spacing="2">HOME REPAIR</text>
+  <text x="222" y="120" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" fill="#5b6b73" letter-spacing="2">SAFE • RELIABLE • FAMILY-FOCUSED</text>
+</svg>
