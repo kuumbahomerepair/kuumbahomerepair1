@@ -55,6 +55,7 @@ img{max-width:100%;display:block}
   padding:26px 0 22px;
   overflow:hidden;
   background:#e9f0f6;
+  isolation:isolate;
 }
 .hero::before{
   content:"";
@@ -63,14 +64,17 @@ img{max-width:100%;display:block}
   filter:blur(12px);
   transform:scale(1.06);
   opacity:.95;
+  z-index:0;
 }
 .hero::after{
   content:"";
   position:absolute; inset:0;
   background:linear-gradient(90deg, rgba(13,43,54,.78) 0%, rgba(13,43,54,.54) 42%, rgba(13,43,54,.18) 68%, rgba(255,255,255,0) 100%);
+  z-index:0;
 }
 .heroGrid{
   position:relative;
+  z-index:1;
   display:grid;
   grid-template-columns: 1.05fr 1fr;
   align-items:center;
